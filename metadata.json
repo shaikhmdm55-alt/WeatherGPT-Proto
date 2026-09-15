@@ -1,0 +1,9 @@
+{
+  "name": "WeatherGPT Agricultural Engine",
+  "description": "Voice-first Agricultural Decision and Disaster Support Engine for rural Indian farmers with live meteorological telemetry, deterministic safety guardrails, and PM Fasal Bima claim dossier generator.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

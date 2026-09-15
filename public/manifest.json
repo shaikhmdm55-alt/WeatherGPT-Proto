@@ -1,0 +1,19 @@
+{
+  "short_name": "WeatherGPT",
+  "name": "WeatherGPT - Agricultural Decision & Disaster Support Engine",
+  "description": "Voice-first autonomous agricultural telemetry, micro-climate guardrails, and PM Fasal Bima disaster dossier generator.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["weather", "productivity", "agriculture"]
+}
